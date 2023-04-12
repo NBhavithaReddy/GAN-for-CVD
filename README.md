@@ -9,3 +9,11 @@ Two separate approaches were taken in order to recolor the images.
 
 ## Results
 
+[Original 1](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/image73.jpg)
+[Recolored 1](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/file_image73.jpg_.jpeg)
+
+[Original 2](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/image84.jpg)
+[Recolored 2](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/file_image84.jpg_.jpeg)
+
+[Original 3](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/image99.jpg)
+[Recolored 3](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/file_image99.jpg_.jpeg)
