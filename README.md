@@ -23,4 +23,5 @@ Two separate approaches were taken in order to recolor the images.
 
 ### GAN 
 
-[]
+[Result 1](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/Screenshot (65).png) <br>
+[Result 2](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/Screenshot (66).png)
