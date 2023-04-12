@@ -9,6 +9,8 @@ Two separate approaches were taken in order to recolor the images.
 
 ## Results
 
+### Algorithm
+
 [Original 1](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/image73.jpg)
 [Recolored 1](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/file_image73.jpg_.jpeg)
 
@@ -17,3 +19,8 @@ Two separate approaches were taken in order to recolor the images.
 
 [Original 3](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/image99.jpg)
 [Recolored 3](https://github.com/NBhavithaReddy/GAN-for-CVD/tree/main/outputs/file_image99.jpg_.jpeg)
+
+
+### GAN 
+
+[]
